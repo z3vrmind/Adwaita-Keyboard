@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adwaita Keyboard</string>
+    <string name="ime_name">Adwaita Keyboard (GNOME Privacy IME)</string>
+    <string name="subtype_en_us">English (US - QWERTY)</string>
+    <string name="subtype_en_uk">English (UK - QWERTY)</string>
+    <string name="subtype_de_qwertz">Deutsch (QWERTZ)</string>
+    <string name="subtype_fr_azerty">Français (AZERTY)</string>
+</resources>

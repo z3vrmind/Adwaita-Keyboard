@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Adwaita Blue Rounded Squircle Background -->
+    <path
+        android:fillColor="#3584E4"
+        android:pathData="M24,10 L84,10 C91.7,10 98,16.3 98,24 L98,84 C98,91.7 91.7,98 84,98 L24,98 C16.3,98 10,91.7 10,84 L10,24 C10,16.3 16.3,10 24,10 Z" />
+    <!-- Keyboard Chassis -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,34 L84,34 C87.3,34 90,36.7 90,40 L90,72 C90,75.3 87.3,78 84,78 L24,78 C20.7,78 18,75.3 18,72 L18,40 C18,36.7 20.7,34 24,34 Z" />
+    <!-- Keycaps Row 1 -->
+    <path
+        android:fillColor="#3584E4"
+        android:pathData="M24,41 h8 v7 h-8 z M36,41 h8 v7 h-8 z M48,41 h8 v7 h-8 z M60,41 h8 v7 h-8 z M72,41 h12 v7 h-12 z" />
+    <!-- Keycaps Row 2 -->
+    <path
+        android:fillColor="#3584E4"
+        android:pathData="M26,52 h8 v7 h-8 z M38,52 h8 v7 h-8 z M50,52 h8 v7 h-8 z M62,52 h8 v7 h-8 z M74,52 h10 v7 h-10 z" />
+    <!-- Spacebar Row 3 -->
+    <path
+        android:fillColor="#3584E4"
+        android:pathData="M24,63 h8 v7 h-8 z M36,63 h36 v7 h-36 z M76,63 h8 v7 h-8 z" />
+</vector>
